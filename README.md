@@ -10,7 +10,7 @@
   <img align="left" alt="Raman | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ramank775.ramank775)
+![](https://visitor-badge.one9x.com/badge?page_id=ramank775.ramank775)
 
 I am a software engineer (Tech Lead fancy professional designation if that matters!!). I really enjoy working on designing and developing backend system and can work on the any end.
 
